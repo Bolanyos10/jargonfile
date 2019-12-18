@@ -1,0 +1,55 @@
+/* Autor: Carlos
+   Fecha: 18 de diciembre de 2019
+*/
+
+/* CSS Pagina entera */
+
+body {
+  background-color: #c6e0ec;
+  font-family: sans-serif;
+}
+
+/* CSS titulos */
+
+h1 {
+  font-size: 300%;
+  text-align: center;
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+
+h2 {
+  background-color: #4099bf;
+  font-size: 200%;
+}
+
+
+h3 {
+  background-color: #79b8d2;
+  color: white;
+  font-size: 150%;
+}
+
+/* CSS texto */
+
+p {
+  text-align: justify;
+}
+
+/* CSS etiquetas */
+
+blockquote {
+  font-style: oblique;
+}
+
+pre {
+  background-color: white;
+  font-size: 120%;
+  font-weight: bold;
+}
+
+address {
+  font-family: serif;
+  font-style: normal;
+  text-align: right;
+}
